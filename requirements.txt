@@ -1,0 +1,2 @@
+pommerman @ git+https://github.com/MultiAgentLearning/playground@master#egg=pommerman
+tensorflow~=2.8
